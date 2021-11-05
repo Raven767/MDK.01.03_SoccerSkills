@@ -1,0 +1,7 @@
+<resources>
+    <string name="Remember">Remember me</string>
+    <string name="Forgot">Forgot password?</string>
+    <string name="Don">Do not have an account?</string>
+    <string name="Signup">Signup NOW</string>
+    <string name="Signin">Signin</string>
+</resources>

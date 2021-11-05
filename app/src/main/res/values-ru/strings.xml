@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Remember">Запомнить меня</string>
+    <string name="Forgot">Забыли пароль?</string>
+    <string name="Don">Не имеете аккаунт?</string>
+    <string name="Signup">Зарегестрироваться сейчас</string>
+    <string name="Signin">Войти</string>
+</resources>
